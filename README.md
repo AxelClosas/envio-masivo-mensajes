@@ -16,7 +16,7 @@ py -m venv venv
 ```bash
 pip install -r req.txt
 ```
-5. Guarda el archivo .csv para extraer la información en la misma carpeta del script. En este caso se llama enviar.csv
+5. Guarda el archivo .csv para extraer la información en la misma carpeta del script. En este caso se llama enviar.csv. Guardar también el PDF a enviar dentro de la misma carpeta.
 6. Ejecuta el script de python para generar la estructura .json que usará el script de Javascript
 ```bash
 python main.py
